@@ -330,6 +330,15 @@ footer{
 @media screen and (max-width: 610px){
 
     .test{
+        padding: 10px;
+        height: 700px;
+    }
+
+    .submirror{
+        height: 750px;
+    }
+
+    .test{
         height: 300px;
     }
 
