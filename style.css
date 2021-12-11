@@ -72,9 +72,9 @@ header  input[type=button]:hover{
 
 
 .test{
-    padding: 15px 4%;
+    padding:  10px 0;
     width: 100%;
-    height: 245px;
+    height: 380px;
     color: red;
     background-color: rgb(24, 21, 21);
 }
@@ -84,10 +84,10 @@ header  input[type=button]:hover{
     padding: 0 2%;
     text-align: center;
     margin: 0 auto;
-    margin-top: 27px;
+    margin-top: 30px;
 }
 
-.center  h1{
+.center > h1{
     font-weight: bold;
     text-transform: uppercase;
     font-size: 35px;
@@ -330,8 +330,8 @@ footer{
 @media screen and (max-width: 610px){
 
     .test{
-        padding: 10px;
-        height: 700px;
+        
+        height: 70px;
     }
 
     .submirror{
